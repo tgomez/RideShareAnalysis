@@ -7,7 +7,6 @@
 
 <p> Ride sharing has adapted to the modern world by transforming from a taxi system to a ride sharing system that easily captures and collects ride data. This change in the way we utilize transportation largely facilitates the collection of data that when analyzed, can lead to insights that can help us better understand and improve the way we commute.
  
-<br></br>
 ## Objective
 <p> Herin I utilized MatPlotLib to create graphs and scatterplots to analyze data regarding ride sharing.
 </p>
